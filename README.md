@@ -12,7 +12,9 @@ Highly skilled in native app development with 7+ years of experience designing, 
 * 🧠  I'm learning Machine Learning
 * ⚡  Coffee flows through my veins, fueling my coding adventures and transforming caffeine into lines of logic and creativity. ☕💻
 
- ### Android Skills
+
+### Skills
+
 My Android skills include expertise in:
 ❅ Java
 ❅ Kotlin
@@ -48,9 +50,6 @@ In addition to my Android skills, I also have expertise in:
 ❅ React Native
 ❅ Git (Bitbucket, GitHub, Gitlab)
 ❅ Agile methodology
-
-
-### Skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
