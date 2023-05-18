@@ -12,6 +12,42 @@ I am an Android Developer, highly skilled in native app development with 7+ year
 * 🧠  I'm learning Machine Learning
 * ⚡  Coffee flows through my veins, fueling my coding adventures and transforming caffeine into lines of logic and creativity. ☕💻
 
+My Android skills include expertise in:
+❅ Java
+❅ Kotlin
+❅ Android Jetpack
+❅ Android app modularization
+❅ Android security
+❅ Android Architecture patterns such as MVC, MVP, MVVM
+❅ WebRTC
+❅ Dagger/Hilt
+❅ Rx (Java, Kotlin)
+❅ Kotlin Coroutines
+❅ Local Database management with SQLite, Realm, ORMLITE, Room
+❅ working with APIs (Retrofit, Volley, okhttp3)
+❅ working with real-time APIs (WebSockets, XMPP, IoT MQTT)
+❅ Firebase Integration
+❅ Maps (Google, MapBox, Openstreetmap)
+❅ social media integration with Facebook, Twitter, and Instagram
+❅ PDF Rendering
+❅ 3D Model Rendering
+❅ device hardware such as Bluetooth, GPS, Accelerometer, Camera, etc.
+❅ testing (Unit testing, Espresso testing, Firebase test lab)
+
+In addition to my Android skills, I also have expertise in:
+❅ Data Structures and Algorithms
+❅ OOP patterns
+❅ Spring framework
+❅ JavaFx
+❅ Angular
+❅ HTML
+❅ CSS
+❅ Javascript
+❅ TypeScript
+❅ React Native
+❅ Git (Bitbucket, GitHub, Gitlab)
+❅ Agile methodology
+
 ### Skills
 
 <p align="left">
