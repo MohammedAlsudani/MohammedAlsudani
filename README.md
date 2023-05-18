@@ -6,7 +6,7 @@ Senior Android Developer
 
 Highly skilled in native app development with 7+ years of experience designing, building, and customizing android apps for various domains such as Hotel Management, Freight forwarding & shipping software solutions, Payment System, Doctor Booking, Health, and Fitness, Food Industry, Social Media Apps, Dating App, Productivity Apps, Service Providers, etc.
 
-* 🌍  I'm based in Moldova
+* 🌍  I'm based in Moldova,Chișinău
 * 🖥️  See my portfolio at [MaterialUiUx](http://materialuiux.com/)
 * ✉️  You can contact me at [alsudanimohammed1@gmail.com](mailto:alsudanimohammed1@gmail.com)
 * 🧠  I'm learning Machine Learning
