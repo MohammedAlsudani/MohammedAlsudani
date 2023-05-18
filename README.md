@@ -6,11 +6,14 @@ Senior Android Developer
 
 I am an Android Developer, highly skilled in native app development with 7+ years of experience designing, building, and customizing android apps for various domains such as Hotel Management, Freight forwarding & shipping software solutions, Payment System, Doctor Booking, Health, and Fitness, Food Industry, Social Media Apps, Dating App, Productivity Apps, Service Providers, etc.
 
-*   🌍  I'm based in Moldova
-*   🖥️  See my portfolio at [MaterialUiUx](http://materialuiux.com/)
-*   ✉️  You can contact me at [alsudanimohammed1@gmail.com](mailto:alsudanimohammed1@gmail.com)
-*   🧠  I'm learning Machine Learning
-*   ⚡  Coffee flows through my veins, fueling my coding adventures and transforming caffeine into lines of logic and creativity. ☕💻### Skills 
+* 🌍  I'm based in Moldova
+* 🖥️  See my portfolio at [MaterialUiUx](http://materialuiux.com/)
+* ✉️  You can contact me at [alsudanimohammed1@gmail.com](mailto:alsudanimohammed1@gmail.com)
+* 🧠  I'm learning Machine Learning
+* ⚡  Coffee flows through my veins, fueling my coding adventures and transforming caffeine into lines of logic and creativity. ☕💻
+
+### Skills
+
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -29,16 +32,16 @@ I am an Android Developer, highly skilled in native app development with 7+ year
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/MohammedAlsudani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/mohammed-alsudani-259a28152" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/MohammedAlsudani"><img src="https://github-readme-stats.vercel.app/api?username=MohammedAlsudani&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MohammedAlsudani's GitHub stats" /></a><a
-                      href="http://www.github.com/MohammedAlsudani"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAlsudani&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/MohammedAlsudani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MohammedAlsudani&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/MohammedAlsudani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammed-alsudani-259a28152" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/MohammedAlsudani"><img src="https://github-readme-stats.vercel.app/api?username=MohammedAlsudani&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MohammedAlsudani's GitHub stats" /></a>
+
+<a href="http://www.github.com/MohammedAlsudani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAlsudani&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/MohammedAlsudani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MohammedAlsudani&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
