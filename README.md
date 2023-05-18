@@ -12,28 +12,42 @@ I am an Android Developer, highly skilled in native app development with 7+ year
 * 🧠  I'm learning Machine Learning
 * ⚡  Coffee flows through my veins, fueling my coding adventures and transforming caffeine into lines of logic and creativity. ☕💻
 
-My Android skills include expertise in:
-❅ Java
-❅ Kotlin
-❅ Android Jetpack
-❅ Android app modularization
-❅ Android security
-❅ Android Architecture patterns such as MVC, MVP, MVVM
-❅ WebRTC
-❅ Dagger/Hilt
-❅ Rx (Java, Kotlin)
-❅ Kotlin Coroutines
-❅ Local Database management with SQLite, Realm, ORMLITE, Room
-❅ working with APIs (Retrofit, Volley, okhttp3)
-❅ working with real-time APIs (WebSockets, XMPP, IoT MQTT)
-❅ Firebase Integration
-❅ Maps (Google, MapBox, Openstreetmap)
-❅ social media integration with Facebook, Twitter, and Instagram
-❅ PDF Rendering
-❅ 3D Model Rendering
-❅ device hardware such as Bluetooth, GPS, Accelerometer, Camera, etc.
-❅ testing (Unit testing, Espresso testing, Firebase test lab)
+ ### Android Skills
 
+<p align="left">
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/android-jetpack-colored.svg" width="36" height="36" alt="Android Jetpack" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/app-modularization-colored.svg" width="36" height="36" alt="App Modularization" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/android-security-colored.svg" width="36" height="36" alt="Android Security" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/android-architecture-colored.svg" width="36" height="36" alt="Android Architecture Patterns" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webrtc-colored.svg" width="36" height="36" alt="WebRTC" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dagger-colored.svg" width="36" height="36" alt="Dagger/Hilt" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rx-colored.svg" width="36" height="36" alt="Rx (Java, Kotlin)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-coroutines-colored.svg" width="36" height="36" alt="Kotlin Coroutines" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlite-colored.svg" width="36" height="36" alt="Local Database (SQLite)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/realm-colored.svg" width="36" height="36" alt="Local Database (Realm)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ormlite-colored.svg" width="36" height="36" alt="Local Database (ORMLITE)" /></a>
+  <a href="#" target="_blank" rel="n
+
+oreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/room-colored.svg" width="36" height="36" alt="Local Database (Room)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/retrofit-colored.svg" width="36" height="36" alt="API Integration (Retrofit)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/volley-colored.svg" width="36" height="36" alt="API Integration (Volley)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/okhttp3-colored.svg" width="36" height="36" alt="API Integration (okhttp3)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/websockets-colored.svg" width="36" height="36" alt="Real-time APIs (WebSockets)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xmpp-colored.svg" width="36" height="36" alt="Real-time APIs (XMPP)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/iot-colored.svg" width="36" height="36" alt="Real-time APIs (IoT MQTT)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/firebase.svg" width="36" height="36" alt="Firebase Integration" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/maps-google-colored.svg" width="36" height="36" alt="Maps (Google)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/maps-mapbox-colored.svg" width="36" height="36" alt="Maps (MapBox)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/maps-openstreetmap-colored.svg" width="36" height="36" alt="Maps (OpenStreetMap)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/social-facebook-colored.svg" width="36" height="36" alt="Social Media Integration (Facebook)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/social-twitter-colored.svg" width="36" height="36" alt="Social Media Integration (Twitter)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/social-instagram
+
+-colored.svg" width="36" height="36" alt="Social Media Integration (Instagram)" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme
+</p>
 In addition to my Android skills, I also have expertise in:
 ❅ Data Structures and Algorithms
 ❅ OOP patterns
