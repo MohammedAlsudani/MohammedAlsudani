@@ -11,6 +11,7 @@ Highly skilled in native app development with 7+ years of experience designing, 
 * ✉️  You can contact me at [alsudanimohammed1@gmail.com](mailto:alsudanimohammed1@gmail.com)
 * 🧠  I'm learning Machine Learning
 * ⚡  Coffee flows through my veins, fueling my coding adventures and transforming caffeine into lines of logic and creativity. ☕💻
+* 🤩 Loves 🎵 and 🎮.
 
 
 ### Skills
