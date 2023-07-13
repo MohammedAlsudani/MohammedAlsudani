@@ -42,6 +42,7 @@ My Android skills include expertise in:
 In addition to my Android skills, I also have expertise in:
 ❅ Data Structures and Algorithms
 ❅ OOP patterns
+❅ IOS development
 ❅ Spring framework
 ❅ JavaFx
 ❅ Angular
