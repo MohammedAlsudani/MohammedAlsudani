@@ -78,6 +78,6 @@ In addition to my Android skills, I also have expertise in:
 
 <b>My GitHub Stats</b>
 
-<a align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedAlsudani&show_icons=true&locale=en" alt="MohammedAlsudani" /></a>
-<a align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedAlsudani&show_icons=true&locale=en&layout=compact" alt="MohammedAlsudani" /></a>
-<a align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohammedAlsudani" alt="MohammedAlsudani" /></a> </a>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedAlsudani&show_icons=true&locale=en" alt="MohammedAlsudani" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedAlsudani&show_icons=true&locale=en&layout=compact" alt="MohammedAlsudani" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MohammedAlsudani" alt="MohammedAlsudani" /></a> </p>
