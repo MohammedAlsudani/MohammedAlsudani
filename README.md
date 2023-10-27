@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=MohammedAlsudani&style=flat-square&color=blue" alt=""/>
 
-Hi ! My name is Mohammed Alsudani
+Hi! My name is Mohammed Alsudani
 =========================================================================================================================================
 
 Senior Android Developer
