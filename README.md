@@ -3,7 +3,7 @@
 Hi! My name is Mohammed Alsudani
 =========================================================================================================================================
 
-Senior Android Developer
+Expert Native Android && IOS Developer - KMM || React Native
 ------------------------
 
 Highly skilled in native app development with 7+ years of experience designing, building, and customizing android apps for various domains such as Hotel Management, Freight forwarding & shipping software solutions, Payment System, Doctor Booking, Health, and Fitness, Food Industry, Social Media Apps, Dating App, Productivity Apps, Service Providers, etc.
