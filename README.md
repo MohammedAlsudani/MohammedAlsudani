@@ -16,45 +16,6 @@ Highly skilled in native app development with 7+ years of experience designing, 
 * 🤩  I have a passion for 🎵 music, 🎮 gaming.
 
 
-### Skills
-
-My Android skills include expertise in:
-❅ Java
-❅ Kotlin
-❅ Android Jetpack
-❅ Android app modularization
-❅ Android security
-❅ Android Architecture patterns such as MVC, MVP, MVVM
-❅ WebRTC
-❅ Dagger/Hilt
-❅ Rx (Java, Kotlin)
-❅ Kotlin Coroutines
-❅ Local Database management with SQLite, Realm, ORMLITE, Room
-❅ working with APIs (Retrofit, Volley, okhttp3)
-❅ working with real-time APIs (WebSockets, XMPP, IoT MQTT)
-❅ Firebase Integration
-❅ Maps (Google, MapBox, Openstreetmap)
-❅ social media integration with Facebook, Twitter, and Instagram
-❅ PDF Rendering
-❅ 3D Model Rendering
-❅ device hardware such as Bluetooth, GPS, Accelerometer, Camera, etc.
-❅ testing (Unit testing, Espresso testing, Firebase test lab)
-
-In addition to my Android skills, I also have expertise in:
-❅ Data Structures and Algorithms
-❅ OOP patterns
-❅ IOS development
-❅ Spring framework
-❅ JavaFx
-❅ Angular
-❅ HTML
-❅ CSS
-❅ Javascript
-❅ TypeScript
-❅ React Native
-❅ Git (Bitbucket, GitHub, Gitlab)
-❅ Agile methodology
-
 ### Work history
 <ul>
     <li>
@@ -99,7 +60,44 @@ If you are looking for somebody to help you with your Android project I recommen
     </li>
 </ul>
 
+### Skills
 
+My Android skills include expertise in:
+❅ Java
+❅ Kotlin
+❅ Android Jetpack
+❅ Android app modularization
+❅ Android security
+❅ Android Architecture patterns such as MVC, MVP, MVVM
+❅ WebRTC
+❅ Dagger/Hilt
+❅ Rx (Java, Kotlin)
+❅ Kotlin Coroutines
+❅ Local Database management with SQLite, Realm, ORMLITE, Room
+❅ working with APIs (Retrofit, Volley, okhttp3)
+❅ working with real-time APIs (WebSockets, XMPP, IoT MQTT)
+❅ Firebase Integration
+❅ Maps (Google, MapBox, Openstreetmap)
+❅ social media integration with Facebook, Twitter, and Instagram
+❅ PDF Rendering
+❅ 3D Model Rendering
+❅ device hardware such as Bluetooth, GPS, Accelerometer, Camera, etc.
+❅ testing (Unit testing, Espresso testing, Firebase test lab)
+
+In addition to my Android skills, I also have expertise in:
+❅ Data Structures and Algorithms
+❅ OOP patterns
+❅ IOS development
+❅ Spring framework
+❅ JavaFx
+❅ Angular
+❅ HTML
+❅ CSS
+❅ Javascript
+❅ TypeScript
+❅ React Native
+❅ Git (Bitbucket, GitHub, Gitlab)
+❅ Agile methodology
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
