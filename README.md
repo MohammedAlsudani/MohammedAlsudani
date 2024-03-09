@@ -55,6 +55,52 @@ In addition to my Android skills, I also have expertise in:
 ❅ Git (Bitbucket, GitHub, Gitlab)
 ❅ Agile methodology
 
+### Work history
+<ul>
+    <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "This job consisted of implementing a new feature into an existing Android application and working with a somewhat outdated codebase. Mohammed was able to familiarize himself with the app fast, updated the code (Android SDK 29/AndroidX) and implemented the feature I wanted.
+
+What I liked about working with Mohammed is that he was enthusiastic about the project and clear in his communication. Before implementing something he would make sure he understood the task correctly. (This is a feature I look out for in freelancers as it can potentially save you lots of money and frustration.)
+
+If you are looking for somebody to help you with your Android project I recommend you give him a chance!"
+    </li>
+    <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "A very good developer to work with, very skilled, punctual, and has very friendly behaviour, and very good communication skill also. Also like to hire next time."
+    </li>
+    <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "Mohammed has ample skills to get the project done in timely fashion. Adheres to schedule and provided us with alternate solution which wasn't the scope of work. Happy to hire him again."
+    </li>
+    <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "Great developer with good skills in Android development. He understood the project requirements and brought up good suggestions. And plus he is always available. I highly recommend him and will continue working with him on some other project."
+    </li>
+    <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "Mohammed is a very skilled and careful programmer. His work was very thorough and detailed."
+    </li>
+    <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "Mohammad was one of our better employees. Mohammad's strength is hard work and perseverance - he tries to solve problems, not avoid them. I wish Mohammad good luck in his future ventures and hope to work with him again."
+    </li>
+    <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "Mr. Muhammed is one of the best Android developers I've worked with. He handled a very difficult project with multiple scenarios, and I hope to work with him in my future projects."
+    </li>
+    <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "Mohammed is very skillful. He tracks and corrects the end-to-end process, providing ideas and solutions that lead to a better final result."
+    </li>
+    <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "Great again! Probably the best professional we have hired. Thanks again."
+    </li>
+    <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "Highly talented developers can be hard to find. He is one of the best developers I've found. His communication was top-notch, he met all deadlines, and his skills were reasonably strong."
+    </li>
+    <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "All perfect, thanks!"
+    </li>
+    <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "Good work. We will continue working with him."
+    </li>
+</ul>
+
+
+
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
