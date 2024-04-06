@@ -16,15 +16,9 @@ With over 7 years of expertise, I specialize in native app development for Andro
 * 🤩  I have a passion for 🎵 music, 🎮 gaming.
 
 
-### Work history
+### Work history Review
 <ul>
-    <li>
-        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "This job consisted of implementing a new feature into an existing Android application and working with a somewhat outdated codebase. Mohammed was able to familiarize himself with the app fast, updated the code (Android SDK 29/AndroidX) and implemented the feature I wanted.
-
-What I liked about working with Mohammed is that he was enthusiastic about the project and clear in his communication. Before implementing something he would make sure he understood the task correctly. (This is a feature I look out for in freelancers as it can potentially save you lots of money and frustration.)
-
-If you are looking for somebody to help you with your Android project I recommend you give him a chance!"
-    </li>
+ 
     <li>
         <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "A very good developer to work with, very skilled, punctual, and has very friendly behaviour, and very good communication skill also. Also like to hire next time."
     </li>
@@ -57,6 +51,13 @@ If you are looking for somebody to help you with your Android project I recommen
     </li>
     <li>
         <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "Good work. We will continue working with him."
+    </li>
+       <li>
+        <span style="font-size: 1.2em;">⭐️⭐️⭐️⭐️⭐️</span> "This job consisted of implementing a new feature into an existing Android application and working with a somewhat outdated codebase. Mohammed was able to familiarize himself with the app fast, updated the code (Android SDK 29/AndroidX) and implemented the feature I wanted.
+
+What I liked about working with Mohammed is that he was enthusiastic about the project and clear in his communication. Before implementing something he would make sure he understood the task correctly. (This is a feature I look out for in freelancers as it can potentially save you lots of money and frustration.)
+
+If you are looking for somebody to help you with your Android project I recommend you give him a chance!"
     </li>
 </ul>
 
