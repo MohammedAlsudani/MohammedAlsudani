@@ -3,7 +3,7 @@
 Hi! My name is Mohammed Alsudani
 =========================================================================================================================================
 
-Android / IOS Developer Java / Kotlin / Swift, Jetpack Compose, WearOs, AndroidTv - React Native / KMM
+Android / IOS Developer (Java / Kotlin / Swift), Jetpack Compose, WearOs, AndroidTv - React Native / KMM
 ------------------------
 
 With over 7 years of expertise, I specialize in native app development for Android and iOS platforms. Proficient in Java and Kotlin for Android, as well as Swift for iOS, I bring extensive experience in crafting bespoke solutions across diverse domains. My skill set encompasses Jetpack Compose, WearOS, AndroidTV, React Native, and Kotlin Multiplatform Mobile (KMM). I have successfully delivered projects ranging from Hotel Management to Freight Forwarding & Shipping Software, Payment Systems, Doctor Booking, Health & Fitness, Food Industry, Social Media, Dating, Productivity, and Service Provider apps.
@@ -62,13 +62,19 @@ If you are looking for somebody to help you with your Android project I recommen
 </ul>
 
 ### Skills
+<p>My Mobile Development skills include expertise in:</p>
 <ul>
-  <li>Java</li>
-  <li>Kotlin</li>
-  <li>Android Jetpack</li>
+  <li>Java / Kotlin / Swift / Javascript</li>
+  <li>Native Android / IOS Development</li>
+  <li>Cross-Platform - KMM / React Native</li>
+  <li>XML && Jetpack Compose</li>
+  <li>XCode Storyboard && SwiftUi</li>
+  <li>Android widgets</li>
+  <li>Android Jetpack libraries</li>
   <li>Android app modularization</li>
-  <li>Android security</li>
-  <li>Android Architecture patterns such as MVC, MVP, MVVM</li>
+  <li>App Security</li>
+  <li>App Architecture patterns such as MVC, MVP, MVVM, Delegate swift</li>
+  <li>Phone/Tablet && Wear OS && Android TV/ AndroidAuto && Android widgets</li>
   <li>WebRTC</li>
   <li>Dagger/Hilt</li>
   <li>Rx (Java, Kotlin)</li>
@@ -76,6 +82,7 @@ If you are looking for somebody to help you with your Android project I recommen
   <li>Local Database management with SQLite, Realm, ORMLITE, Room</li>
   <li>Working with APIs (Retrofit, Volley, okhttp3)</li>
   <li>Working with real-time APIs (WebSockets, XMPP, IoT MQTT)</li>
+  <li>Implementing (Work Managers, Background Services, Alarm Managers)</li>
   <li>Firebase Integration</li>
   <li>Maps (Google, MapBox, Openstreetmap)</li>
   <li>Social media integration with Facebook, Twitter, and Instagram</li>
@@ -85,21 +92,16 @@ If you are looking for somebody to help you with your Android project I recommen
   <li>Testing (Unit testing, Espresso testing, Firebase test lab)</li>
 </ul>
 
-<p>In addition to my Android skills, I also have expertise in:</p>
-
+<p>In addition to my Mobile Development skills, I also have expertise in:</p>
 <ul>
   <li>Data Structures and Algorithms</li>
   <li>OOP patterns</li>
-  <li>IOS development</li>
   <li>Spring framework</li>
-  <li>kotlin multiplatform</li>
   <li>JavaFx</li>
   <li>Angular</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Javascript</li>
-  <li>TypeScript</li>
-  <li>React Native</li>
+  <li>Typescript</li>
   <li>Git (Bitbucket, GitHub, Gitlab)</li>
   <li>Agile methodology</li>
 </ul>
