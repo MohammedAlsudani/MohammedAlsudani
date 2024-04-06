@@ -62,43 +62,47 @@ If you are looking for somebody to help you with your Android project I recommen
 </ul>
 
 ### Skills
+<ul>
+  <li>Java</li>
+  <li>Kotlin</li>
+  <li>Android Jetpack</li>
+  <li>Android app modularization</li>
+  <li>Android security</li>
+  <li>Android Architecture patterns such as MVC, MVP, MVVM</li>
+  <li>WebRTC</li>
+  <li>Dagger/Hilt</li>
+  <li>Rx (Java, Kotlin)</li>
+  <li>Kotlin Coroutines</li>
+  <li>Local Database management with SQLite, Realm, ORMLITE, Room</li>
+  <li>Working with APIs (Retrofit, Volley, okhttp3)</li>
+  <li>Working with real-time APIs (WebSockets, XMPP, IoT MQTT)</li>
+  <li>Firebase Integration</li>
+  <li>Maps (Google, MapBox, Openstreetmap)</li>
+  <li>Social media integration with Facebook, Twitter, and Instagram</li>
+  <li>PDF Rendering</li>
+  <li>3D Model Rendering</li>
+  <li>Device hardware such as Bluetooth, GPS, Accelerometer, Camera, etc.</li>
+  <li>Testing (Unit testing, Espresso testing, Firebase test lab)</li>
+</ul>
 
-My Android skills include expertise in:
-❅ Java
-❅ Kotlin
-❅ Android Jetpack
-❅ Android app modularization
-❅ Android security
-❅ Android Architecture patterns such as MVC, MVP, MVVM
-❅ WebRTC
-❅ Dagger/Hilt
-❅ Rx (Java, Kotlin)
-❅ Kotlin Coroutines
-❅ Local Database management with SQLite, Realm, ORMLITE, Room
-❅ working with APIs (Retrofit, Volley, okhttp3)
-❅ working with real-time APIs (WebSockets, XMPP, IoT MQTT)
-❅ Firebase Integration
-❅ Maps (Google, MapBox, Openstreetmap)
-❅ social media integration with Facebook, Twitter, and Instagram
-❅ PDF Rendering
-❅ 3D Model Rendering
-❅ device hardware such as Bluetooth, GPS, Accelerometer, Camera, etc.
-❅ testing (Unit testing, Espresso testing, Firebase test lab)
+<p>In addition to my Android skills, I also have expertise in:</p>
 
-In addition to my Android skills, I also have expertise in:
-❅ Data Structures and Algorithms
-❅ OOP patterns
-❅ IOS development
-❅ Spring framework
-❅ JavaFx
-❅ Angular
-❅ HTML
-❅ CSS
-❅ Javascript
-❅ TypeScript
-❅ React Native
-❅ Git (Bitbucket, GitHub, Gitlab)
-❅ Agile methodology
+<ul>
+  <li>Data Structures and Algorithms</li>
+  <li>OOP patterns</li>
+  <li>IOS development</li>
+  <li>Spring framework</li>
+  <li>kotlin multiplatform</li>
+  <li>JavaFx</li>
+  <li>Angular</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>TypeScript</li>
+  <li>React Native</li>
+  <li>Git (Bitbucket, GitHub, Gitlab)</li>
+  <li>Agile methodology</li>
+</ul>
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
