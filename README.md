@@ -8,7 +8,6 @@ Senior Software Developer - Android / IOS / Full Stack Developer ~ Java / C++ / 
 
 With over 9 years of expertise, I specialize in native app development for Android and iOS platforms. Proficient in Java and Kotlin for Android, as well as Swift for iOS, I bring extensive experience in crafting bespoke solutions across diverse domains. My skill set encompasses Jetpack Compose, WearOS, AndroidTV, React Native, and Kotlin Multiplatform Mobile (KMM). I have successfully delivered projects ranging from Hotel Management to Freight Forwarding & Shipping Software, Payment Systems, Doctor Booking, Health & Fitness, Food Industry, Social Media, Dating, Productivity, and Service Provider apps.
 
-* 🌍  I'm based in Moldova,Chișinău
 * 🖥️  See my portfolio at [MaterialUiUx](http://materialuiux.com/)
 * 👨‍💻  #SelfTaught Developer
 * 🧠  I'm learning Machine Learning
